@@ -1,0 +1,8 @@
+.container {
+  display: grid;
+  justify-content: center;
+}
+
+.items {
+  font-weight: bold;
+}
